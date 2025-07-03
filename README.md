@@ -22,21 +22,6 @@ pip install -r requirements.txt
 
 
 
-## GitHub Setup
-
-1. Go to [https://github.com/new](https://github.com/new)
-2. Name the repo `simlab`
-3. Don’t initialize with README (we already did)
-4. Choose **MIT License**
-5. Click **Create Repository**
-6. Then follow the instructions it gives to push your local files:
-
-git init
-git remote add origin https://github.com/YOUR_USERNAME/simlab.git
-git add .
-git commit -m "Initial project structure setup"
-git push -u origin main
-
 
  Day 2 – Synthetic Population Generator
 
