@@ -75,3 +75,23 @@ immune_baseline	b_cell_response	t_cell_response	immune_strength	outcome
 Core logic: src/immune_model.py
 
 Simulation applied in: src/main.py
+
+
+
+Testing
+I use pytest to ensure the immune system simulation code works correctly and reliably.
+
+What is tested?
+Correct output fields from the immune response simulation
+
+Immune strength values are within expected bounds (0 to 1)
+
+Proper classification of immune response outcomes (Strong, Moderate, Weak)
+
+B-cell and T-cell response values within plausible ranges
+
+How to run tests
+pip install pytest
+Run tests from the project root directory:
+
+pytest tests/
