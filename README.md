@@ -67,11 +67,11 @@ Immune strength score (0.0 to 1.0)
 
 Outcome classification (Strong, Moderate, Weak)
 
-🔬 Example Output Fields (added to CSV)
+ Example Output Fields (added to CSV)
 immune_baseline	b_cell_response	t_cell_response	immune_strength	outcome
 0.82	0.79	0.61	0.7	Moderate
 
-⚙️ Code Location
+ Code Location
 Core logic: src/immune_model.py
 
 Simulation applied in: src/main.py
