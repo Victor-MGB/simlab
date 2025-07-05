@@ -95,3 +95,70 @@ pip install pytest
 Run tests from the project root directory:
 
 pytest tests/
+
+
+
+ Experiment Engine with Varied Treatments
+I’ve implemented an Experiment Engine to test how individuals respond to different treatments such as vaccines, stress, or sleep deprivation.
+
+Each treatment modifies the individual's immune baseline, and i re-run immune simulations to observe changes in:
+
+B-cell and T-cell responses
+
+Immune strength score
+
+Final classification (Strong / Moderate / Weak)
+ Treatments Simulated
+Treatment	Effect
+control	No change
+vaccine_boost	Boosts immune response by 20%
+sleep_deprivation	Reduces immune response by 15%
+anti_inflammatory	Mild immune support (10% boost)
+stress	Suppresses immune response by 20%
+
+How to Run All Treatments:
+python -m src.main --experiment
+
+This generates a new CSV file:
+data/treatment_experiments.csv
+
+| full\_name | treatment          | immune\_strength | outcome  |
+| ---------- | ------------------ | ---------------- | -------- |
+| Lolita     | control            | 0.62             | Moderate |
+| Momčilo    | vaccine\_boost     | 0.81             | Strong   |
+| Mitchell   | sleep\_deprivation | 0.47             | Weak     |
+
+
+
+I trained a machine learning model (Random Forest) to predict immune response outcomes based on:
+
+Sex
+
+Race/Ethnicity
+
+Medical History
+
+Treatment Type
+
+Immune Baseline
+
+How it Works:
+Experimental data from Day 5 is read from data/experiment_results.csv
+
+Categorical features are one-hot encoded
+
+A model is trained and evaluated on accuracy
+
+Predictions and actual outcomes are saved in data/model_predictions.csv
+
+Outputs:
+File	Description
+experiment_results.csv	All individuals across all treatments
+model_predictions.csv	ML predictions vs actual outcomes
+
+ Challenges faced and Resolved:
+Handled missing columns in experiment output
+
+Improved error handling in preprocessing
+
+Standardized filenames for smoother automation

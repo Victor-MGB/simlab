@@ -1,0 +1,16 @@
+LinkedIn Caption (Professional & Project-Focused):
+✅ Day 5 – Experimental Engine complete!
+
+I built a system to test how the same synthetic individual responds to different treatments like vaccine boosts, stress, or sleep deprivation — just like digital trials used in biotech.
+
+It runs immune simulations for every treatment and records changes in:
+
+Immune strength (0.0 to 1.0)
+
+Outcome classification (Strong / Moderate / Weak)
+
+CSV-ready results for ML training or visual dashboards
+
+Proud of this milestone! Day 6 next: 🧠 visualization + streamlit dashboard.
+
+#DataScience #Simulation #Python #Biotech #PortfolioProject #MachineLearning
