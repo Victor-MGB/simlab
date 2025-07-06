@@ -193,3 +193,45 @@ Helps identify patterns or subgroups in the population based on immune responses
 
 The plots was auto-generated when run below:
 python -m src.main --experiment --train-model --visualize
+
+
+
+Snippet for Multi-Tab Dashboard
+Immune Simulation Dashboard
+
+This interactive Streamlit dashboard provides an advanced biotech data visualization experience, splitting key datasets across intuitive tabs
+
+Synthetic Population:
+View detailed synthetic profiles generated using public APIs.
+
+Filter population by medical history.
+
+Visualize immune baseline strength distribution.
+
+Includes demographics, health conditions, and immune response indicators.
+
+
+
+ Immune Treatment Experiments
+Explore experiment results with varied treatments.
+
+Filter by treatment types and immune response outcomes.
+
+Visualize treatment effectiveness via outcome distribution charts.
+
+View full experimental dataset in an interactive table.
+
+
+
+Machine Learning Model Predictions
+Analyze ML model performance: Actual vs Predicted immune outcomes.
+
+Visualize immune profile clusters with PCA dimensionality reduction.
+
+Interactive charts demonstrate classification accuracy and model insights.
+
+Includes raw model prediction data for further exploration.
+
+
+How to run it below
+streamlit run app.py
