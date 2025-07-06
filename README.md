@@ -162,3 +162,34 @@ Handled missing columns in experiment output
 Improved error handling in preprocessing
 
 Standardized filenames for smoother automation
+
+
+
+
+Plot Sections
+
+Visualization of Immune Simulation Results: 
+
+For better understanding and communicating the outcome of our simulations and machine learning predictions, we generated the following plots:
+
+1. Treatment vs Outcome:
+File: plots/treatment_effects.png
+This shows how bar chart display different treatments affected immune system outcomes (e.g. infection cleared vs not cleared).
+
+Useful for visualizing the effectiveness of interventions like vaccine_boost, stress, etc.
+
+2. Model Accuracy – Actual vs Predicted
+File: plots/model_accuracy.png
+This chart compares the model’s predictions with the true outcomes, helping to evaluate model performance in real-world project.
+
+it is Used to evaluate ML model accuracy and ensure correct predictions across classes.
+
+3. PCA Clustering – Immune Profiles
+File: plots/clusters.png
+I use PCA (Principal Component Analysis) to reduce immune feature dimensions and plot clusters of individual immune profiles.
+
+Helps identify patterns or subgroups in the population based on immune responses.
+
+
+The plots was auto-generated when run below:
+python -m src.main --experiment --train-model --visualize
