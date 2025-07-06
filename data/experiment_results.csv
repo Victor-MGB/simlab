@@ -1,0 +1,251 @@
+b_cell_response,t_cell_response,immune_strength,outcome,treatment,full_name,sex,race_ethnicity,medical_history
+0.29,0.21,0.25,Weak,control,Julio Freeman,male,Other,None
+0.49,0.44,0.46,Weak,control,Dinella Hiremath,female,Asian,Diabetes
+0.63,0.66,0.64,Moderate,control,علیرضا علیزاده,male,Other,None
+0.67,0.34,0.51,Moderate,control,Malik Morin,male,Mixed,None
+0.37,0.29,0.33,Weak,control,Hannah Jones,female,Black,None
+0.73,0.58,0.65,Moderate,control,Klara Fernandez,female,White,Allergy
+0.56,0.49,0.53,Moderate,control,Linn Groot Koerkamp,female,Mixed,Diabetes
+0.42,0.43,0.42,Weak,control,Urs Dubois,male,Other,Allergy
+0.52,0.46,0.49,Weak,control,Rolando De Geus,male,Hispanic,Allergy
+0.71,0.34,0.43,Weak,control,Marc Woods,male,Black,Immunodeficiency
+0.57,0.34,0.45,Weak,control,Jildau Saman,female,Other,Asthma
+0.71,0.74,0.73,Moderate,control,Alvino Farias,male,White,Diabetes
+0.26,0.33,0.29,Weak,control,Johnni Shaw,male,Asian,None
+0.9,0.49,0.69,Moderate,control,Lyudmila Korbutyak,female,Black,Hypertension
+0.77,0.71,0.74,Moderate,control,Adam Philippe,male,Mixed,Hypertension
+0.55,0.48,0.52,Moderate,control,Brent Andrews,male,Other,Asthma
+0.6,0.42,0.51,Moderate,control,Dylan Harris,male,Hispanic,None
+0.84,0.82,0.83,Strong,control,Daniel Patel,male,Other,Allergy
+0.34,0.31,0.32,Weak,control,Jackson Chambers,male,Asian,Allergy
+0.83,0.52,0.68,Moderate,control,Odarka Osadchuk,female,Black,None
+0.79,0.62,0.71,Moderate,control,حسین یاسمی,male,Asian,None
+0.37,0.2,0.28,Weak,control,Herédio Ribeiro,male,Black,Asthma
+0.47,0.47,0.37,Weak,control,Ronnie Barnett,male,Other,Immunodeficiency
+0.36,0.28,0.32,Weak,control,Svitoyar Tanskiy,male,Asian,Hypertension
+0.7,0.79,0.65,Moderate,control,Elias Hansen,male,Asian,Cancer History
+0.58,0.51,0.55,Moderate,control,Deepika Ramesh,female,Other,None
+0.85,0.4,0.62,Moderate,control,Jessica Mcdonalid,female,White,Allergy
+0.45,0.38,0.41,Weak,control,Heike Groth,female,White,Asthma
+0.54,0.45,0.4,Weak,control,William Gaillard,male,Other,Cancer History
+0.96,0.59,0.77,Strong,control,سینا کامروا,male,Other,Hypertension
+0.78,0.52,0.65,Moderate,control,Maxime Henry,male,Black,Diabetes
+0.5,0.25,0.37,Weak,control,Alexis White,female,Asian,Asthma
+0.67,0.63,0.65,Moderate,control,محمدامين رضایی,male,White,Allergy
+0.66,0.47,0.57,Moderate,control,Milja Laine,female,Asian,Diabetes
+0.61,0.54,0.48,Weak,control,Mileta Kojić,male,Hispanic,Cancer History
+0.51,0.3,0.41,Weak,control,Raksha Dalvi,female,Asian,Diabetes
+0.41,0.34,0.38,Weak,control,Jaqueline Mesa,female,Mixed,Allergy
+0.97,0.49,0.73,Moderate,control,Samantha Hall,female,Mixed,Asthma
+0.35,0.22,0.29,Weak,control,Elliot Fleming,male,Hispanic,Hypertension
+0.56,0.46,0.51,Moderate,control,Robin Jimenez,female,White,Allergy
+0.3,0.23,0.17,Weak,control,Irene Ribeiro,female,Black,Immunodeficiency
+0.75,0.74,0.74,Moderate,control,Kelly Stephens,male,Other,Diabetes
+0.31,0.13,0.22,Weak,control,Georgina Araújo,female,Hispanic,Allergy
+1.1,0.74,0.92,Strong,control,كيان پارسا,male,Hispanic,Allergy
+1.07,0.68,0.88,Strong,control,Sarella Van Klaveren,female,Mixed,Hypertension
+0.83,0.48,0.56,Moderate,control,Cohen King,male,Black,Cancer History
+0.74,0.47,0.61,Moderate,control,Albert Simmmons,male,Other,Allergy
+0.33,0.22,0.27,Weak,control,Amanda Olivares,female,Other,Hypertension
+0.53,0.61,0.57,Moderate,control,Hallvard Sundal,male,Hispanic,Diabetes
+0.39,0.36,0.27,Weak,control,Maurizio Dohmen,male,Other,Cancer History
+0.34,0.29,0.31,Weak,vaccine_boost,Julio Freeman,male,Other,None
+0.6,0.55,0.57,Moderate,vaccine_boost,Dinella Hiremath,female,Asian,Diabetes
+0.85,0.82,0.83,Strong,vaccine_boost,علیرضا علیزاده,male,Other,None
+0.65,0.45,0.55,Moderate,vaccine_boost,Malik Morin,male,Mixed,None
+0.48,0.35,0.41,Weak,vaccine_boost,Hannah Jones,female,Black,None
+0.79,0.77,0.78,Strong,vaccine_boost,Klara Fernandez,female,White,Allergy
+0.69,0.67,0.68,Moderate,vaccine_boost,Linn Groot Koerkamp,female,Mixed,Diabetes
+0.64,0.5,0.57,Moderate,vaccine_boost,Urs Dubois,male,Other,Allergy
+0.45,0.58,0.52,Moderate,vaccine_boost,Rolando De Geus,male,Hispanic,Allergy
+0.73,0.43,0.48,Weak,vaccine_boost,Marc Woods,male,Black,Immunodeficiency
+0.61,0.36,0.49,Weak,vaccine_boost,Jildau Saman,female,Other,Asthma
+0.79,0.62,0.71,Moderate,vaccine_boost,Alvino Farias,male,White,Diabetes
+0.45,0.3,0.38,Weak,vaccine_boost,Johnni Shaw,male,Asian,None
+0.94,0.71,0.82,Strong,vaccine_boost,Lyudmila Korbutyak,female,Black,Hypertension
+0.87,0.83,0.85,Strong,vaccine_boost,Adam Philippe,male,Mixed,Hypertension
+0.75,0.6,0.67,Moderate,vaccine_boost,Brent Andrews,male,Other,Asthma
+0.65,0.65,0.65,Moderate,vaccine_boost,Dylan Harris,male,Hispanic,None
+0.8,0.76,0.78,Strong,vaccine_boost,Daniel Patel,male,Other,Allergy
+0.5,0.37,0.44,Weak,vaccine_boost,Jackson Chambers,male,Asian,Allergy
+0.75,0.66,0.7,Moderate,vaccine_boost,Odarka Osadchuk,female,Black,None
+0.73,0.67,0.7,Moderate,vaccine_boost,حسین یاسمی,male,Asian,None
+0.65,0.35,0.5,Moderate,vaccine_boost,Herédio Ribeiro,male,Black,Asthma
+0.49,0.46,0.37,Weak,vaccine_boost,Ronnie Barnett,male,Other,Immunodeficiency
+0.44,0.47,0.45,Weak,vaccine_boost,Svitoyar Tanskiy,male,Asian,Hypertension
+1.05,0.92,0.89,Strong,vaccine_boost,Elias Hansen,male,Asian,Cancer History
+0.75,0.43,0.59,Moderate,vaccine_boost,Deepika Ramesh,female,Other,None
+1.0,0.68,0.84,Strong,vaccine_boost,Jessica Mcdonalid,female,White,Allergy
+0.64,0.51,0.58,Moderate,vaccine_boost,Heike Groth,female,White,Asthma
+0.8,0.5,0.55,Moderate,vaccine_boost,William Gaillard,male,Other,Cancer History
+1.03,0.58,0.8,Strong,vaccine_boost,سینا کامروا,male,Other,Hypertension
+0.97,0.63,0.8,Strong,vaccine_boost,Maxime Henry,male,Black,Diabetes
+0.44,0.29,0.37,Weak,vaccine_boost,Alexis White,female,Asian,Asthma
+0.74,0.74,0.74,Moderate,vaccine_boost,محمدامين رضایی,male,White,Allergy
+0.74,0.61,0.67,Moderate,vaccine_boost,Milja Laine,female,Asian,Diabetes
+0.73,0.5,0.52,Moderate,vaccine_boost,Mileta Kojić,male,Hispanic,Cancer History
+0.53,0.4,0.46,Weak,vaccine_boost,Raksha Dalvi,female,Asian,Diabetes
+0.52,0.54,0.53,Moderate,vaccine_boost,Jaqueline Mesa,female,Mixed,Allergy
+1.04,0.48,0.76,Strong,vaccine_boost,Samantha Hall,female,Mixed,Asthma
+0.47,0.24,0.36,Weak,vaccine_boost,Elliot Fleming,male,Hispanic,Hypertension
+0.55,0.71,0.63,Moderate,vaccine_boost,Robin Jimenez,female,White,Allergy
+0.44,0.2,0.22,Weak,vaccine_boost,Irene Ribeiro,female,Black,Immunodeficiency
+1.0,0.76,0.88,Strong,vaccine_boost,Kelly Stephens,male,Other,Diabetes
+0.36,0.15,0.26,Weak,vaccine_boost,Georgina Araújo,female,Hispanic,Allergy
+0.73,0.75,0.74,Moderate,vaccine_boost,كيان پارسا,male,Hispanic,Allergy
+1.06,0.59,0.83,Strong,vaccine_boost,Sarella Van Klaveren,female,Mixed,Hypertension
+0.99,0.72,0.76,Strong,vaccine_boost,Cohen King,male,Black,Cancer History
+0.76,0.54,0.65,Moderate,vaccine_boost,Albert Simmmons,male,Other,Allergy
+0.38,0.4,0.39,Weak,vaccine_boost,Amanda Olivares,female,Other,Hypertension
+0.75,0.69,0.72,Moderate,vaccine_boost,Hallvard Sundal,male,Hispanic,Diabetes
+0.61,0.32,0.37,Weak,vaccine_boost,Maurizio Dohmen,male,Other,Cancer History
+0.22,0.17,0.19,Weak,sleep_deprivation,Julio Freeman,male,Other,None
+0.39,0.37,0.38,Weak,sleep_deprivation,Dinella Hiremath,female,Asian,Diabetes
+0.56,0.55,0.56,Moderate,sleep_deprivation,علیرضا علیزاده,male,Other,None
+0.46,0.43,0.44,Weak,sleep_deprivation,Malik Morin,male,Mixed,None
+0.32,0.29,0.31,Weak,sleep_deprivation,Hannah Jones,female,Black,None
+0.62,0.58,0.6,Moderate,sleep_deprivation,Klara Fernandez,female,White,Allergy
+0.48,0.51,0.5,Moderate,sleep_deprivation,Linn Groot Koerkamp,female,Mixed,Diabetes
+0.42,0.36,0.39,Weak,sleep_deprivation,Urs Dubois,male,Other,Allergy
+0.43,0.4,0.41,Weak,sleep_deprivation,Rolando De Geus,male,Hispanic,Allergy
+0.75,0.33,0.44,Weak,sleep_deprivation,Marc Woods,male,Black,Immunodeficiency
+0.47,0.19,0.33,Weak,sleep_deprivation,Jildau Saman,female,Other,Asthma
+0.86,0.74,0.8,Strong,sleep_deprivation,Alvino Farias,male,White,Diabetes
+0.24,0.29,0.27,Weak,sleep_deprivation,Johnni Shaw,male,Asian,None
+0.67,0.46,0.57,Moderate,sleep_deprivation,Lyudmila Korbutyak,female,Black,Hypertension
+0.74,0.5,0.62,Moderate,sleep_deprivation,Adam Philippe,male,Mixed,Hypertension
+0.41,0.29,0.35,Weak,sleep_deprivation,Brent Andrews,male,Other,Asthma
+0.49,0.49,0.49,Weak,sleep_deprivation,Dylan Harris,male,Hispanic,None
+0.85,0.56,0.7,Moderate,sleep_deprivation,Daniel Patel,male,Other,Allergy
+0.35,0.28,0.32,Weak,sleep_deprivation,Jackson Chambers,male,Asian,Allergy
+0.71,0.42,0.57,Moderate,sleep_deprivation,Odarka Osadchuk,female,Black,None
+0.83,0.43,0.63,Moderate,sleep_deprivation,حسین یاسمی,male,Asian,None
+0.46,0.17,0.31,Weak,sleep_deprivation,Herédio Ribeiro,male,Black,Asthma
+0.52,0.34,0.33,Weak,sleep_deprivation,Ronnie Barnett,male,Other,Immunodeficiency
+0.28,0.26,0.27,Weak,sleep_deprivation,Svitoyar Tanskiy,male,Asian,Hypertension
+0.81,0.58,0.6,Moderate,sleep_deprivation,Elias Hansen,male,Asian,Cancer History
+0.58,0.36,0.47,Weak,sleep_deprivation,Deepika Ramesh,female,Other,None
+0.59,0.45,0.52,Moderate,sleep_deprivation,Jessica Mcdonalid,female,White,Allergy
+0.38,0.32,0.35,Weak,sleep_deprivation,Heike Groth,female,White,Asthma
+0.41,0.57,0.39,Weak,sleep_deprivation,William Gaillard,male,Other,Cancer History
+0.7,0.54,0.62,Moderate,sleep_deprivation,سینا کامروا,male,Other,Hypertension
+0.75,0.42,0.59,Moderate,sleep_deprivation,Maxime Henry,male,Black,Diabetes
+0.36,0.2,0.28,Weak,sleep_deprivation,Alexis White,female,Asian,Asthma
+0.74,0.51,0.63,Moderate,sleep_deprivation,محمدامين رضایی,male,White,Allergy
+0.54,0.48,0.51,Moderate,sleep_deprivation,Milja Laine,female,Asian,Diabetes
+0.52,0.38,0.35,Weak,sleep_deprivation,Mileta Kojić,male,Hispanic,Cancer History
+0.33,0.31,0.32,Weak,sleep_deprivation,Raksha Dalvi,female,Asian,Diabetes
+0.35,0.28,0.32,Weak,sleep_deprivation,Jaqueline Mesa,female,Mixed,Allergy
+0.59,0.46,0.53,Moderate,sleep_deprivation,Samantha Hall,female,Mixed,Asthma
+0.41,0.21,0.31,Weak,sleep_deprivation,Elliot Fleming,male,Hispanic,Hypertension
+0.58,0.47,0.52,Moderate,sleep_deprivation,Robin Jimenez,female,White,Allergy
+0.26,0.17,0.11,Weak,sleep_deprivation,Irene Ribeiro,female,Black,Immunodeficiency
+0.5,0.47,0.49,Weak,sleep_deprivation,Kelly Stephens,male,Other,Diabetes
+0.25,0.15,0.2,Weak,sleep_deprivation,Georgina Araújo,female,Hispanic,Allergy
+0.82,0.53,0.67,Moderate,sleep_deprivation,كيان پارسا,male,Hispanic,Allergy
+0.73,0.41,0.57,Moderate,sleep_deprivation,Sarella Van Klaveren,female,Mixed,Hypertension
+0.6,0.59,0.5,Moderate,sleep_deprivation,Cohen King,male,Black,Cancer History
+0.72,0.39,0.56,Moderate,sleep_deprivation,Albert Simmmons,male,Other,Allergy
+0.23,0.23,0.23,Weak,sleep_deprivation,Amanda Olivares,female,Other,Hypertension
+0.51,0.39,0.45,Weak,sleep_deprivation,Hallvard Sundal,male,Hispanic,Diabetes
+0.42,0.3,0.26,Weak,sleep_deprivation,Maurizio Dohmen,male,Other,Cancer History
+0.34,0.24,0.29,Weak,anti_inflammatory,Julio Freeman,male,Other,None
+0.4,0.31,0.35,Weak,anti_inflammatory,Dinella Hiremath,female,Asian,Diabetes
+0.68,0.67,0.67,Moderate,anti_inflammatory,علیرضا علیزاده,male,Other,None
+0.81,0.36,0.58,Moderate,anti_inflammatory,Malik Morin,male,Mixed,None
+0.35,0.34,0.35,Weak,anti_inflammatory,Hannah Jones,female,Black,None
+0.61,0.69,0.65,Moderate,anti_inflammatory,Klara Fernandez,female,White,Allergy
+0.79,0.52,0.65,Moderate,anti_inflammatory,Linn Groot Koerkamp,female,Mixed,Diabetes
+0.63,0.29,0.46,Weak,anti_inflammatory,Urs Dubois,male,Other,Allergy
+0.54,0.49,0.52,Moderate,anti_inflammatory,Rolando De Geus,male,Hispanic,Allergy
+0.71,0.47,0.49,Weak,anti_inflammatory,Marc Woods,male,Black,Immunodeficiency
+0.45,0.37,0.41,Weak,anti_inflammatory,Jildau Saman,female,Other,Asthma
+0.91,0.6,0.75,Strong,anti_inflammatory,Alvino Farias,male,White,Diabetes
+0.32,0.38,0.35,Weak,anti_inflammatory,Johnni Shaw,male,Asian,None
+0.86,0.76,0.81,Strong,anti_inflammatory,Lyudmila Korbutyak,female,Black,Hypertension
+0.92,0.95,0.93,Strong,anti_inflammatory,Adam Philippe,male,Mixed,Hypertension
+0.7,0.55,0.63,Moderate,anti_inflammatory,Brent Andrews,male,Other,Asthma
+0.8,0.57,0.68,Moderate,anti_inflammatory,Dylan Harris,male,Hispanic,None
+0.99,0.8,0.89,Strong,anti_inflammatory,Daniel Patel,male,Other,Allergy
+0.49,0.38,0.44,Weak,anti_inflammatory,Jackson Chambers,male,Asian,Allergy
+0.89,0.6,0.75,Strong,anti_inflammatory,Odarka Osadchuk,female,Black,None
+0.88,0.6,0.74,Moderate,anti_inflammatory,حسین یاسمی,male,Asian,None
+0.43,0.28,0.35,Weak,anti_inflammatory,Herédio Ribeiro,male,Black,Asthma
+0.62,0.5,0.46,Weak,anti_inflammatory,Ronnie Barnett,male,Other,Immunodeficiency
+0.48,0.32,0.4,Weak,anti_inflammatory,Svitoyar Tanskiy,male,Asian,Hypertension
+0.73,0.69,0.61,Moderate,anti_inflammatory,Elias Hansen,male,Asian,Cancer History
+0.65,0.43,0.54,Moderate,anti_inflammatory,Deepika Ramesh,female,Other,None
+0.82,0.46,0.64,Moderate,anti_inflammatory,Jessica Mcdonalid,female,White,Allergy
+0.5,0.42,0.46,Weak,anti_inflammatory,Heike Groth,female,White,Asthma
+0.75,0.48,0.51,Moderate,anti_inflammatory,William Gaillard,male,Other,Cancer History
+0.85,0.64,0.74,Moderate,anti_inflammatory,سینا کامروا,male,Other,Hypertension
+0.84,0.43,0.64,Moderate,anti_inflammatory,Maxime Henry,male,Black,Diabetes
+0.47,0.39,0.43,Weak,anti_inflammatory,Alexis White,female,Asian,Asthma
+0.93,0.79,0.86,Strong,anti_inflammatory,محمدامين رضایی,male,White,Allergy
+0.88,0.6,0.74,Moderate,anti_inflammatory,Milja Laine,female,Asian,Diabetes
+0.58,0.41,0.39,Weak,anti_inflammatory,Mileta Kojić,male,Hispanic,Cancer History
+0.44,0.47,0.45,Weak,anti_inflammatory,Raksha Dalvi,female,Asian,Diabetes
+0.55,0.5,0.53,Moderate,anti_inflammatory,Jaqueline Mesa,female,Mixed,Allergy
+0.87,0.68,0.78,Strong,anti_inflammatory,Samantha Hall,female,Mixed,Asthma
+0.46,0.27,0.36,Weak,anti_inflammatory,Elliot Fleming,male,Hispanic,Hypertension
+0.57,0.5,0.53,Moderate,anti_inflammatory,Robin Jimenez,female,White,Allergy
+0.37,0.16,0.16,Weak,anti_inflammatory,Irene Ribeiro,female,Black,Immunodeficiency
+0.78,0.75,0.77,Strong,anti_inflammatory,Kelly Stephens,male,Other,Diabetes
+0.32,0.15,0.24,Weak,anti_inflammatory,Georgina Araújo,female,Hispanic,Allergy
+0.89,0.51,0.7,Moderate,anti_inflammatory,كيان پارسا,male,Hispanic,Allergy
+0.95,0.44,0.69,Moderate,anti_inflammatory,Sarella Van Klaveren,female,Mixed,Hypertension
+0.75,0.65,0.6,Moderate,anti_inflammatory,Cohen King,male,Black,Cancer History
+0.65,0.65,0.65,Moderate,anti_inflammatory,Albert Simmmons,male,Other,Allergy
+0.32,0.3,0.31,Weak,anti_inflammatory,Amanda Olivares,female,Other,Hypertension
+0.49,0.51,0.5,Moderate,anti_inflammatory,Hallvard Sundal,male,Hispanic,Diabetes
+0.42,0.31,0.26,Weak,anti_inflammatory,Maurizio Dohmen,male,Other,Cancer History
+0.26,0.2,0.23,Weak,stress,Julio Freeman,male,Other,None
+0.37,0.35,0.36,Weak,stress,Dinella Hiremath,female,Asian,Diabetes
+0.5,0.39,0.44,Weak,stress,علیرضا علیزاده,male,Other,None
+0.4,0.34,0.37,Weak,stress,Malik Morin,male,Mixed,None
+0.33,0.21,0.27,Weak,stress,Hannah Jones,female,Black,None
+0.56,0.52,0.54,Moderate,stress,Klara Fernandez,female,White,Allergy
+0.61,0.48,0.55,Moderate,stress,Linn Groot Koerkamp,female,Mixed,Diabetes
+0.51,0.24,0.37,Weak,stress,Urs Dubois,male,Other,Allergy
+0.28,0.26,0.27,Weak,stress,Rolando De Geus,male,Hispanic,Allergy
+0.52,0.38,0.35,Weak,stress,Marc Woods,male,Black,Immunodeficiency
+0.4,0.19,0.29,Weak,stress,Jildau Saman,female,Other,Asthma
+0.76,0.68,0.72,Moderate,stress,Alvino Farias,male,White,Diabetes
+0.22,0.24,0.23,Weak,stress,Johnni Shaw,male,Asian,None
+0.71,0.39,0.55,Moderate,stress,Lyudmila Korbutyak,female,Black,Hypertension
+0.71,0.68,0.69,Moderate,stress,Adam Philippe,male,Mixed,Hypertension
+0.4,0.25,0.32,Weak,stress,Brent Andrews,male,Other,Asthma
+0.45,0.42,0.44,Weak,stress,Dylan Harris,male,Hispanic,None
+0.8,0.56,0.68,Moderate,stress,Daniel Patel,male,Other,Allergy
+0.34,0.21,0.27,Weak,stress,Jackson Chambers,male,Asian,Allergy
+0.6,0.42,0.51,Moderate,stress,Odarka Osadchuk,female,Black,None
+0.53,0.56,0.55,Moderate,stress,حسین یاسمی,male,Asian,None
+0.41,0.2,0.3,Weak,stress,Herédio Ribeiro,male,Black,Asthma
+0.34,0.45,0.29,Weak,stress,Ronnie Barnett,male,Other,Immunodeficiency
+0.36,0.24,0.3,Weak,stress,Svitoyar Tanskiy,male,Asian,Hypertension
+0.67,0.56,0.51,Moderate,stress,Elias Hansen,male,Asian,Cancer History
+0.52,0.31,0.42,Weak,stress,Deepika Ramesh,female,Other,None
+0.68,0.48,0.58,Moderate,stress,Jessica Mcdonalid,female,White,Allergy
+0.34,0.34,0.34,Weak,stress,Heike Groth,female,White,Asthma
+0.52,0.51,0.42,Weak,stress,William Gaillard,male,Other,Cancer History
+0.7,0.44,0.57,Moderate,stress,سینا کامروا,male,Other,Hypertension
+0.7,0.45,0.57,Moderate,stress,Maxime Henry,male,Black,Diabetes
+0.32,0.27,0.29,Weak,stress,Alexis White,female,Asian,Asthma
+0.67,0.52,0.59,Moderate,stress,محمدامين رضایی,male,White,Allergy
+0.53,0.43,0.48,Weak,stress,Milja Laine,female,Asian,Diabetes
+0.4,0.47,0.34,Weak,stress,Mileta Kojić,male,Hispanic,Cancer History
+0.39,0.24,0.32,Weak,stress,Raksha Dalvi,female,Asian,Diabetes
+0.4,0.25,0.33,Weak,stress,Jaqueline Mesa,female,Mixed,Allergy
+0.66,0.47,0.57,Moderate,stress,Samantha Hall,female,Mixed,Asthma
+0.31,0.14,0.22,Weak,stress,Elliot Fleming,male,Hispanic,Hypertension
+0.54,0.35,0.45,Weak,stress,Robin Jimenez,female,White,Allergy
+0.24,0.17,0.1,Weak,stress,Irene Ribeiro,female,Black,Immunodeficiency
+0.57,0.6,0.58,Moderate,stress,Kelly Stephens,male,Other,Diabetes
+0.26,0.12,0.19,Weak,stress,Georgina Araújo,female,Hispanic,Allergy
+0.56,0.62,0.59,Moderate,stress,كيان پارسا,male,Hispanic,Allergy
+0.57,0.5,0.54,Moderate,stress,Sarella Van Klaveren,female,Mixed,Hypertension
+0.57,0.52,0.45,Weak,stress,Cohen King,male,Black,Cancer History
+0.64,0.47,0.56,Moderate,stress,Albert Simmmons,male,Other,Allergy
+0.27,0.25,0.26,Weak,stress,Amanda Olivares,female,Other,Hypertension
+0.37,0.34,0.35,Weak,stress,Hallvard Sundal,male,Hispanic,Diabetes
+0.37,0.22,0.2,Weak,stress,Maurizio Dohmen,male,Other,Cancer History

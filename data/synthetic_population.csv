@@ -1,0 +1,51 @@
+full_name,age,sex,race_ethnicity,email,location,medical_history,immune_baseline,image_url,b_cell_response,t_cell_response,immune_strength,outcome
+Elisa Laurent,24,female,Other,elisa.laurent@example.com,"Le Mans, France",None,0.32,https://randomuser.me/api/portraits/women/51.jpg,0.29,0.21,0.25,Weak
+Fitan Shenoy,42,male,Asian,fitan.shenoy@example.com,"Bilaspur, India",Diabetes,0.46,https://randomuser.me/api/portraits/men/10.jpg,0.49,0.43,0.46,Weak
+Noah Roberts,69,male,Other,noah.roberts@example.com,"Hamilton, New Zealand",None,0.77,https://randomuser.me/api/portraits/men/94.jpg,0.63,0.47,0.55,Moderate
+Ilona Laitinen,58,female,Mixed,ilona.laitinen@example.com,"Alajärvi, Finland",None,0.71,https://randomuser.me/api/portraits/women/60.jpg,0.67,0.38,0.53,Moderate
+Ann Shala,41,female,Black,ann.shala@example.com,"Tranby, Norway",None,0.37,https://randomuser.me/api/portraits/women/38.jpg,0.37,0.3,0.34,Weak
+Abdullahi Høyer,26,male,White,abdullahi.hoyer@example.com,"Høyanger, Norway",Allergy,0.72,https://randomuser.me/api/portraits/men/46.jpg,0.73,0.58,0.66,Moderate
+Florent Joly,53,male,Mixed,florent.joly@example.com,"Nîmes, France",Diabetes,0.8,https://randomuser.me/api/portraits/men/35.jpg,0.56,0.51,0.53,Moderate
+Konsta Haataja,59,male,Other,konsta.haataja@example.com,"Alajärvi, Finland",Allergy,0.59,https://randomuser.me/api/portraits/men/78.jpg,0.42,0.46,0.44,Weak
+Lea Andersen,48,female,Hispanic,lea.andersen@example.com,"Keswick, Canada",Allergy,0.49,https://randomuser.me/api/portraits/women/58.jpg,0.52,0.42,0.47,Weak
+Eleonora Šotra,34,female,Black,eleonora.sotra@example.com,"Bačka Topola, Serbia",Immunodeficiency,0.86,https://randomuser.me/api/portraits/women/39.jpg,0.71,0.54,0.52,Moderate
+Kimaya Belligatti,51,female,Other,kimaya.belligatti@example.com,"Dhule, India",Asthma,0.54,https://randomuser.me/api/portraits/women/64.jpg,0.57,0.47,0.52,Moderate
+Kent Porter,57,male,White,kent.porter@example.com,"Roscrea, Ireland",Diabetes,0.97,https://randomuser.me/api/portraits/men/64.jpg,0.71,0.64,0.68,Moderate
+کیمیا یاسمی,62,female,Asian,khymy.ysmy@example.com,"اصفهان, Iran",None,0.36,https://randomuser.me/api/portraits/women/81.jpg,0.26,0.25,0.26,Weak
+Karen Flores,29,female,Black,karen.flores@example.com,"Wicklow, Ireland",Hypertension,0.89,https://randomuser.me/api/portraits/women/71.jpg,0.9,0.58,0.74,Moderate
+Hans-Jochen Seliger,56,male,Mixed,hans-jochen.seliger@example.com,"Damme, Germany",Hypertension,0.86,https://randomuser.me/api/portraits/men/1.jpg,0.77,0.59,0.68,Moderate
+Hussein Hansen,68,male,Other,hussein.hansen@example.com,"Gvarv, Norway",Asthma,0.68,https://randomuser.me/api/portraits/men/79.jpg,0.55,0.46,0.51,Moderate
+Alex Carter,36,female,Hispanic,alex.carter@example.com,"Cardiff, United Kingdom",None,0.69,https://randomuser.me/api/portraits/women/54.jpg,0.6,0.47,0.54,Moderate
+Felix Mendoza,26,male,Other,felix.mendoza@example.com,"Chandler, United States",Allergy,0.92,https://randomuser.me/api/portraits/men/31.jpg,0.84,0.82,0.83,Strong
+Kavyashri Anchan,31,female,Asian,kavyashri.anchan@example.com,"Firozabad, India",Allergy,0.43,https://randomuser.me/api/portraits/women/82.jpg,0.34,0.31,0.32,Weak
+Terri Wagner,24,female,Black,terri.wagner@example.com,"Raleigh, United States",None,0.76,https://randomuser.me/api/portraits/women/53.jpg,0.83,0.65,0.74,Moderate
+Lieselotte Domburg,74,female,Asian,lieselotte.domburg@example.com,"Vianen, Netherlands",None,0.9,https://randomuser.me/api/portraits/women/45.jpg,0.79,0.48,0.63,Moderate
+Marilyn Oliver,48,female,Black,marilyn.oliver@example.com,"Van Alstyne, United States",Asthma,0.49,https://randomuser.me/api/portraits/women/28.jpg,0.37,0.31,0.34,Weak
+Lachlan Green,50,male,Other,lachlan.green@example.com,"Hastings, New Zealand",Immunodeficiency,0.56,https://randomuser.me/api/portraits/men/34.jpg,0.47,0.42,0.34,Weak
+Fatma Koyuncu,36,female,Asian,fatma.koyuncu@example.com,"Ağrı, Turkey",Hypertension,0.45,https://randomuser.me/api/portraits/women/57.jpg,0.36,0.31,0.33,Weak
+Lillian Jacobs,57,female,Asian,lillian.jacobs@example.com,"Bunbury, Australia",Cancer History,0.96,https://randomuser.me/api/portraits/women/36.jpg,0.7,0.68,0.59,Moderate
+Matthew Ouellet,74,male,Other,matthew.ouellet@example.com,"Inverness, Canada",None,0.73,https://randomuser.me/api/portraits/men/95.jpg,0.58,0.46,0.52,Moderate
+Mia Williams,36,female,White,mia.williams@example.com,"Lafontaine, Canada",Allergy,0.81,https://randomuser.me/api/portraits/women/56.jpg,0.85,0.51,0.68,Moderate
+Mathias Christensen,48,male,White,mathias.christensen@example.com,"Sundby, Denmark",Asthma,0.57,https://randomuser.me/api/portraits/men/42.jpg,0.45,0.45,0.45,Weak
+Loane Leclercq,78,female,Other,loane.leclercq@example.com,"Tourcoing, France",Cancer History,0.69,https://randomuser.me/api/portraits/women/3.jpg,0.54,0.28,0.31,Weak
+Peggy Walker,49,female,Other,peggy.walker@example.com,"Ballarat, Australia",Hypertension,0.89,https://randomuser.me/api/portraits/women/84.jpg,0.96,0.67,0.81,Strong
+Noel da Cruz,32,male,Black,noel.dacruz@example.com,"Rio de Janeiro, Brazil",Diabetes,0.88,https://randomuser.me/api/portraits/men/52.jpg,0.78,0.8,0.79,Strong
+Linda Carbajal,57,female,Asian,linda.carbajal@example.com,"General Enrique Estrada, Mexico",Asthma,0.49,https://randomuser.me/api/portraits/women/82.jpg,0.5,0.27,0.39,Weak
+Naomi Morris,79,female,White,naomi.morris@example.com,"Auckland, New Zealand",Allergy,0.91,https://randomuser.me/api/portraits/women/85.jpg,0.67,0.43,0.55,Moderate
+Avery Gauthier,25,female,Asian,avery.gauthier@example.com,"Summerside, Canada",Diabetes,0.76,https://randomuser.me/api/portraits/women/3.jpg,0.66,0.6,0.63,Moderate
+Priscilla Cox,25,female,Hispanic,priscilla.cox@example.com,"Everett, United States",Cancer History,0.62,https://randomuser.me/api/portraits/women/7.jpg,0.61,0.54,0.48,Weak
+Shravya Shah,32,female,Asian,shravya.shah@example.com,"Ichalkaranji, India",Diabetes,0.47,https://randomuser.me/api/portraits/women/22.jpg,0.51,0.3,0.41,Weak
+Minttu Tikkanen,31,female,Mixed,minttu.tikkanen@example.com,"Viitasaari, Finland",Allergy,0.48,https://randomuser.me/api/portraits/women/65.jpg,0.41,0.35,0.38,Weak
+Ceyhun Tazegül,67,male,Mixed,ceyhun.tazegul@example.com,"Burdur, Turkey",Asthma,0.93,https://randomuser.me/api/portraits/men/13.jpg,0.97,0.47,0.72,Moderate
+Emilie Smith,32,female,Hispanic,emilie.smith@example.com,"Russell, Canada",Hypertension,0.45,https://randomuser.me/api/portraits/women/49.jpg,0.35,0.35,0.35,Weak
+Victoria Claire,73,female,White,victoria.claire@example.com,"Chipman, Canada",Allergy,0.65,https://randomuser.me/api/portraits/women/59.jpg,0.56,0.31,0.44,Weak
+Charles Gerard,52,male,Black,charles.gerard@example.com,"Tours, France",Immunodeficiency,0.38,https://randomuser.me/api/portraits/men/94.jpg,0.3,0.32,0.21,Weak
+Jayden Green,36,male,Other,jayden.green@example.com,"Upper Hutt, New Zealand",Diabetes,0.85,https://randomuser.me/api/portraits/men/44.jpg,0.75,0.8,0.77,Strong
+Brian Lewis,40,male,Hispanic,brian.lewis@example.com,"Wagga Wagga, Australia",Allergy,0.34,https://randomuser.me/api/portraits/men/80.jpg,0.31,0.21,0.26,Weak
+Vesna Jelačić,45,female,Hispanic,vesna.jelacic@example.com,"Kosjerić, Serbia",Allergy,1.0,https://randomuser.me/api/portraits/women/71.jpg,1.1,0.89,0.99,Strong
+Grishma Rajesh,70,female,Mixed,grishma.rajesh@example.com,"Udaipur, India",Hypertension,0.98,https://randomuser.me/api/portraits/women/55.jpg,1.07,0.67,0.87,Strong
+Pedro López,64,male,Black,pedro.lopez@example.com,"Mérida, Spain",Cancer History,0.8,https://randomuser.me/api/portraits/men/60.jpg,0.83,0.41,0.52,Moderate
+Detlev Kaltenbach,28,male,Other,detlev.kaltenbach@example.com,"Wörth am Main, Germany",Allergy,0.83,https://randomuser.me/api/portraits/men/18.jpg,0.74,0.57,0.66,Moderate
+Jeanne Martin,44,female,Other,jeanne.martin@example.com,"Inwood, Canada",Hypertension,0.38,https://randomuser.me/api/portraits/women/39.jpg,0.33,0.23,0.28,Weak
+Tania Richard,71,female,Hispanic,tania.richard@example.com,"Troistorrents, Switzerland",Diabetes,0.62,https://randomuser.me/api/portraits/women/72.jpg,0.53,0.43,0.48,Weak
+Rhonda Chapman,67,female,Other,rhonda.chapman@example.com,"Sunshine Coast, Australia",Cancer History,0.48,https://randomuser.me/api/portraits/women/80.jpg,0.39,0.32,0.25,Weak
