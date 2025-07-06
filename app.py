@@ -14,9 +14,9 @@ st.markdown("Explore synthetic population, experiments, and ML predictions with 
 @st.cache_data
 def load_data():
     try:
-        synthetic = pd.read_csv("data/synthetic_population.csv")
-        experiment = pd.read_csv("data/experiment_results.csv")
-        model = pd.read_csv("data/model_predictions.csv")
+        synthetic = pd.read_csv("https://github.com/Victor-MGB/simlab/blob/main/data/synthetic_population.csv")
+        experiment = pd.read_csv("https://github.com/Victor-MGB/simlab/blob/main/data/experiment_results.csv")
+        model = pd.read_csv("https://github.com/Victor-MGB/simlab/blob/main/data/model_predictions.csv")
         return synthetic, experiment, model
     except Exception as e:
         st.error(f"⚠️ Error loading datasets: {e}")
